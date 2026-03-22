@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 import streamlit.components.v1 as components
 import json
 
-# --- THE AUTO-ANIMATING WAVEFORM ENGINE (SCROLL FIX) ---
+
 def build_auto_wave_chart(probs, num_qubits, max_state):
 
     states = [format(i, f'0{num_qubits}b') for i in range(2**num_qubits)]
