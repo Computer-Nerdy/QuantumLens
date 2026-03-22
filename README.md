@@ -1,5 +1,5 @@
 # QuantumLens
-# 🛸 QuantumLens v4.0: Neural Interface Lab
+# 🛸 QuantumLens v1: Neural Interface Lab
 
 ![License](https://img.shields.io/badge/license-MIT-gold)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
