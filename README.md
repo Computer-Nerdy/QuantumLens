@@ -64,15 +64,16 @@ This lab is designed to run entirely **offline** once the assets are loaded.
    ```bash
    streamlit run app.py
    ```
-🧬 Quantum Concepts Visualized:
-        Superposition:
+# 🧬 Quantum Concepts Visualized:
+        * **Superposition:**
                 Visualized via the H-Gate amplitude split. Witness a single state diverge into a 50/50 probability distribution.
-        Entanglement:
+        * **Entanglement:**
                 Demonstrated through Bell State generation ($|00\rangle + |11\rangle$). Link the fates of two qubits across the terminal.
-        Collapse:
+        * **Collapse:**
                 Experience the "Observer Effect" by triggering the Measure protocol, which forces a non-reversible state selection and resets the system to a basis state.
 
-👤 Author
-HARISH RAGAV V Lead Quantum Systems Architect
+#👤 * **Author:**
+            **HARISH RAGAV V** 
+            *Lead Quantum Systems Architect*
 
-"The universe is not only queerer than we suppose, but queerer than we can suppose." — J.B.S. Haldane
+**"The universe is not only queerer than we suppose, but queerer than we can suppose." — J.B.S. Haldane **
