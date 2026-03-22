@@ -264,7 +264,7 @@ except ImportError:
     st.error("Qiskit not installed. Please check your dependencies.")
     st.stop()
 
-st.set_page_config(page_title="QuantumLens v4.0", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="QuantumLens v1", layout="wide", initial_sidebar_state="expanded")
 st.sidebar.title("QuantumLens")
 NUM_QUBITS = st.sidebar.slider("CORE QUBIT COUNT", min_value=1, max_value=10, value=2, help="Warning: High qubit counts may cause computer Brain lag.")
 st.sidebar.caption(f"v1 - {NUM_QUBITS}-Qubit Engine")
@@ -572,7 +572,7 @@ if st.session_state.tutorial_step < 5:
                 INITIALIZING MISSION CRITICAL SYSTEMS
             </div>
             """, unsafe_allow_html=True)
-            st.markdown('<p style="margin-top:15px;">Welcome, Lead Researcher. QuantumLens v4.0 is now online.</p>', unsafe_allow_html=True)
+            st.markdown('<p style="margin-top:15px;">Welcome, Lead Researcher. QuantumLens v1 is now online.</p>', unsafe_allow_html=True)
             
             if st.button("PROCEED TO BRIEFING"):
                 st.session_state.is_glitching = True
