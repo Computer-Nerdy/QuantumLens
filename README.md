@@ -74,6 +74,6 @@ This lab is designed to run entirely **offline** once the assets are loaded.
 
 #👤 * **Author:**
             **HARISH RAGAV V** 
-            *Lead Quantum Systems Architect*
+            *     (Lead Quantum Systems Architect)*
 
-**"The universe is not only queerer than we suppose, but queerer than we can suppose." — J.B.S. Haldane **
+"The universe is not only queerer than we suppose, but queerer than we can suppose." — J.B.S. Haldane
